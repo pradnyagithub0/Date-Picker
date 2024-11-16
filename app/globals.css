@@ -2,6 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+
 :root {
   --background: #ffffff;
   --foreground: #171717;
